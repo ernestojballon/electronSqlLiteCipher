@@ -1,8 +1,8 @@
 Run for the first time
 
-> npm install
+> npm install // Execute this inside /electron folder as well
 
-> npm run start-electron
+> npm run start-electron // only on root project
 
 Run if you did any change in ionic angular side and/or electron
 
