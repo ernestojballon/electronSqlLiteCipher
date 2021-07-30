@@ -1,6 +1,7 @@
 Run for the first time
 
 > npm install
+
 > npm run start-electron
 
 Run if you did any change in ionic angular side and/or electron
